@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Formats.Asn1;
 using System.Runtime.Intrinsics.X86;
 
 namespace OOP04
@@ -54,13 +55,24 @@ namespace OOP04
             #endregion
             #region Q5
             //Question 5:
-//Which keyword is used to implement an interface in a class in C#?
-//a) inherit
-//b) use
-//c) extends
-//d) implements
+            //Which keyword is used to implement an interface in a class in C#?
+            //a) inherit
+            //b) use
+            //c) extends
+            //d) implements
 
             //?? (:)
+
+            #endregion
+            #region Q6 
+//            Question 6:
+//Can an interface contain static methods in C#?
+//a) Yes
+//b) No
+//c) Only if the interface is sealed
+//d) Only if the methods are private
+
+            //ANS:(A)
 
         #endregion
     }
