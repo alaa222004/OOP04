@@ -59,6 +59,17 @@ namespace OOP04
 
 
         #endregion
+        #region Q2P2
+        interface IAuthenticationService
+        {
+            void AuthenticateUser();
+            void AuthorizeUser();
+        }
+        public class BasicAuthenticationService : IAuthenticationService
+        {
+
+        }
+        #endregion
         internal class Program
         {
             static void Main()
