@@ -14,10 +14,21 @@ namespace OOP04
             //c) To declare abstract methods and properties
             //d) To create instances of objects
 
-            //ANS:(C)
+            //ANS:(A)
 
             #endregion
+            #region Q2
 
+
+            //Which of the following is NOT a valid access modifier for interface members in C#?
+            //a) private
+            //b) protected
+            //c) internal
+            //d) public
+
+            //ANS:(A)
+
+            #endregion
+        }
     }
-}
 }
