@@ -65,14 +65,25 @@ namespace OOP04
 
             #endregion
             #region Q6 
-//            Question 6:
-//Can an interface contain static methods in C#?
-//a) Yes
-//b) No
-//c) Only if the interface is sealed
-//d) Only if the methods are private
+            //            Question 6:
+            //Can an interface contain static methods in C#?
+            //a) Yes
+            //b) No
+            //c) Only if the interface is sealed
+            //d) Only if the methods are private
 
             //ANS:(A)
+
+            #endregion
+            #region Q7 
+//            Question 7:
+//In C#, can an interface have explicit access modifiers for its members?
+//a) Yes, for all members
+//b) No, all members are implicitly public
+//c) Yes, but only for abstract members
+//d) Only if the interface is sealed
+
+            //ANS:(B)
 
         #endregion
     }
