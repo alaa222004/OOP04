@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Runtime.Intrinsics.X86;
 
 namespace OOP04
 {
@@ -41,16 +42,27 @@ namespace OOP04
             #endregion
             #region Q4
 
-//            Question 4:
-//In C#, can an interface inherit from another interface?
-//a) No, interfaces cannot inherit from each other
-//b) Yes, interfaces can inherit from multiple interfaces
-//c) Yes, but only if they have the same methods
-//d) Only if the interfaces are in the same namespace
+            //            Question 4:
+            //In C#, can an interface inherit from another interface?
+            //a) No, interfaces cannot inherit from each other
+            //b) Yes, interfaces can inherit from multiple interfaces
+            //c) Yes, but only if they have the same methods
+            //d) Only if the interfaces are in the same namespace
 
             //ANS:(B)
 
             #endregion
-        }
+            #region Q5
+            //Question 5:
+//Which keyword is used to implement an interface in a class in C#?
+//a) inherit
+//b) use
+//c) extends
+//d) implements
+
+            //?? (:)
+
+        #endregion
     }
+}
 }
