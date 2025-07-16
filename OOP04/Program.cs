@@ -76,16 +76,27 @@ namespace OOP04
 
             #endregion
             #region Q7 
-//            Question 7:
-//In C#, can an interface have explicit access modifiers for its members?
-//a) Yes, for all members
-//b) No, all members are implicitly public
-//c) Yes, but only for abstract members
-//d) Only if the interface is sealed
+            //            Question 7:
+            //In C#, can an interface have explicit access modifiers for its members?
+            //a) Yes, for all members
+            //b) No, all members are implicitly public
+            //c) Yes, but only for abstract members
+            //d) Only if the interface is sealed
 
             //ANS:(B)
 
-        #endregion
-    }
+            #endregion
+            #region Q8
+            //            What is the purpose of an explicit interface implementation in C#?
+            //a) To hide the interface members from outside access
+            //b) To provide a clear separation between interface and class members
+            //c) To allow multiple classes to implement the same interface
+            //d) To speed up method resolution
+
+            //ANS:(A)
+
+            #endregion
+
+        }
 }
 }
