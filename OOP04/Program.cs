@@ -97,19 +97,29 @@ namespace OOP04
 
             #endregion
             #region Q9 
-//            Question 9:
-//In C#, can an interface have a constructor?
-//a) Yes, but it must be private
-//b) No, interfaces cannot have constructors
-//c) Yes, but only if the interface is sealed
-//d) Only if the constructor is static
+            //            Question 9:
+            //In C#, can an interface have a constructor?
+            //a) Yes, but it must be private
+            //b) No, interfaces cannot have constructors
+            //c) Yes, but only if the interface is sealed
+            //d) Only if the constructor is static
 
             //ANS:(B)
 
 
 
-        #endregion
+            #endregion
+            #region Q10
+//            Question 10:
+//How can a C# class implement multiple interfaces?
+//a) By using the "implements" keyword
+//b) By using the "extends" keyword
+//c) By separating interface names with commas
+//d) A class cannot implement multiple interfaces
 
+            //ANS:(C)
+
+        #endregion
     }
 }
 }
